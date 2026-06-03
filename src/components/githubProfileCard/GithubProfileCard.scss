@@ -57,7 +57,16 @@
 .subTitle {
   color: $subTitle;
 }
+@media (max-width: 768px) {
+  .greeting-image-div {
+    margin-top: 30px;
+    order: 2;
+  }
 
+  .profile-image {
+    max-width: 220px !important;
+  }
+}
 @media (max-width: 768px) {
   .row {
     display: flex;

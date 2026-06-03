@@ -101,6 +101,10 @@ const skillsSection = {
     {
       skillName: "Git",
       fontAwesomeClassname: "fab fa-git-alt"
+    },
+    {
+      skillName: "Next.js",
+      fontAwesomeClassname: "fas fa-code"
     }
   ],
   display: true
