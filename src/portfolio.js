@@ -197,6 +197,18 @@ const bigProjects = {
       ]
     },
     {
+      image: require("./assets/images/stanfordLogo.png"),
+      projectName: "Next.js E-Commerce",
+      projectDesc:
+        "A modern e-commerce web application built with Next.js, TypeScript, and Tailwind CSS. Features product browsing, product details, shopping cart with Context API, localStorage persistence, responsive design, and optimized performance.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://ahmedstored23.vercel.app/"
+        }
+      ]
+    },
+    {
       image: require("./assets/images/project2.png"),
       projectName: "DPI Blog Project",
       projectDesc:
