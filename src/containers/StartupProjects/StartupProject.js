@@ -66,7 +66,7 @@ export default function StartupProject() {
                       {project.projectDesc}
                     </p>
                     {project.footerLink ? (
-                      <div className="project-card-footer">
+                      <div className="project-card-footer ">
                         {project.footerLink.map((link, i) => {
                           return (
                             <span

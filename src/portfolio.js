@@ -197,6 +197,18 @@ const bigProjects = {
       ]
     },
     {
+      image: require("./assets/images/kunooz-althawq.jpg"),
+      projectName: "Konooz Al Thawq",
+      projectDesc:
+        " Professional company website built with Next.js and Tailwind CSS. Features responsive design, SEO optimization, categorized project galleries, and WhatsApp integration.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://construction-company-eight-rose.vercel.app/"
+        }
+      ]
+    },
+    {
       image: require("./assets/images/stanfordLogo.png"),
       projectName: "Next.js E-Commerce",
       projectDesc:
